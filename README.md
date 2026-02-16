@@ -5,6 +5,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/auto_display_switch.svg)](https://github.com/yourusername/auto_display_switch/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/yourusername/auto_display_switch.svg)](https://github.com/yourusername/auto_display_switch/issues)
 
+## 🤖 AI生成声明
+
+本项目由AI生成，可自由修改。
+
 ## 📖 项目简介
 
 本项目是针对最近火爆的mac mini不用KVM切换器的软件解决方案。
@@ -363,8 +367,6 @@ SOFTWARE.
 
 - **项目主页**: [https://github.com/yourusername/auto_display_switch](https://github.com/yourusername/auto_display_switch)
 - **问题反馈**: [GitHub Issues](https://github.com/yourusername/auto_display_switch/issues)
-- **邮箱**: your.email@example.com
-
 ---
 
 <div align="center">
