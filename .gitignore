@@ -1,0 +1,71 @@
+# Binaries
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.tmp
+*.log
+
+# Rider files
+.idea/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# TeamCity
+_TeamCity*
+
+# DotCover
+*.dotCover
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# MightyMoose
+*.mm.*
+AutoTest.Net/
+
+# Web files
+*.publishsettings
+
+# Microsoft Azure
+.cspack
+.csdef
+
+# Others
+*.cache
+*.log
+*.tmp
+*.temp
+*.swp
+*.bak
+*.orig
